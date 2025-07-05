@@ -16,3 +16,5 @@ The fir_filter module implements a straightforward, parameterizable direct-form 
 
 
 OUTPUT:
+
+<img width="1284" height="654" alt="Image" src="https://github.com/user-attachments/assets/39c5a9b7-3c3e-44d4-b31d-ba24fc060a17" />
